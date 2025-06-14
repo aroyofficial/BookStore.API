@@ -1,0 +1,6 @@
+@Shuru.API_HostAddress = http://localhost:5133
+
+GET {{Shuru.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
